@@ -24,3 +24,11 @@ in the world of electrical engineering.
 7. Optimal generator engagement
 8. Optimal work of a power system consisting of thermal power plants and hydro power plants
 9. Probabilistic simulation of the work of a power system
+
+----------------------------------------------------------------------------------------------------------------
+%NOTE%
+----------------------------------------------------------------------------------------------------------------
+All of the problems and solutions in this repo are done during the course of my studies.
+Because I am still not an engineer, do take most of the solutions with a bit of a reserve.
+Mistakes are possible and I would appreciate it if you would contact me if you were to find any.
+Thank you.
