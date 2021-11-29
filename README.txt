@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------------------------------------------------
 Hello there!
 
-So in this project I'm simply submitting problems and solutions to those problems in either VBA and MATLAB
+So in this project I'm simply submitting problems and solutions to those problems in either Excel VBA or MATLAB
 from the subject "Power System Operations" for the field of Power System Engineering.
 
 Most of the problems and the subsequent solutions will be with detailed steps on how to approach the solutions,
