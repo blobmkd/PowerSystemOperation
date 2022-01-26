@@ -7,7 +7,7 @@ So in this project I'm simply submitting problems and solutions to those problem
 from the subject "Power System Operations" for the field of Power System Engineering.
 
 Most of the problems and the subsequent solutions will be with detailed steps on how to approach the solutions,
-how to do the needed steps and if there are any other ways to better the solutions to the given problems.
+how to do the needed steps and if there are any other ways to improve the solutions to the given problems.
 
 Most of the time I will be also uploading a form of report for the problem as that is the professional custom
 in the world of electrical engineering.
